@@ -7,14 +7,19 @@
 ### ✨ User Functions:
 
 ➕ Add Task: Users can add new tasks to the to-do list.
+
 ❌ Delete Task: Users can remove tasks they have completed or no longer wish to do from the list.
+
 🔍 View User Details: Users can view detailed information of the users registered in the application.
 
 ### 🛠 Technologies Used:
 
 ⚛️ React Native: The main development environment of the application allows cross-platform mobile application development for both iOS and Android.
+
 🔄 Context API: Used to manage global states such as tasks and user information within the application, enabling easy data sharing across all components.
+
 🔗 React Navigation: Allows users to easily navigate between tasks and users within the application.
+
 🌐 Styled Components or React Native StyleSheet: Used to style the user interface of the application and give it a modern look.
 
 📌 This project is designed to simplify task management and user information handling, offering a user-friendly experience.
