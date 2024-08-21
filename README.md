@@ -22,7 +22,7 @@
 
 🌐 Styled Components or React Native StyleSheet: Used to style the user interface of the application and give it a modern look.
 
-## Libraries:
+##📚 Libraries:
 
  - @react-navigation/native
  - @react-navigation/stack
