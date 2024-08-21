@@ -22,6 +22,18 @@
 
 🌐 Styled Components or React Native StyleSheet: Used to style the user interface of the application and give it a modern look.
 
+## Libraries:
+
+ - @react-navigation/native
+ - @react-navigation/stack
+ - axios
+ - react
+ - react-native
+ - react-native-gesture-handler
+ - react-native-safe-area-context
+ - react-native-screens
+  
+
 📌 This project is designed to simplify task management and user information handling, offering a user-friendly experience.
 
 ![](./src/image/contextTask.gif)
